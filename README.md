@@ -22,3 +22,10 @@ A local **Retrieval-Augmented Generation (RAG)** application that allows users t
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Mutahir1717/Chat-With-PDF-RAG.git](https://github.com/Mutahir1717/Chat-With-PDF-RAG.git)
+   
+2. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+3. Run the application:
+   ```bash
+   python app.py
